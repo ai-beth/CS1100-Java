@@ -1,6 +1,6 @@
 # CS1100 - Introduction to Java Programming
 
-A collection of Java programs from my CS1100 course at UCM, organized by programming concept.
+A collection of Java programs from my introductory programming course, organized by concept.
 
 ## Folder Structure
 
